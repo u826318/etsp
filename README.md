@@ -1,4 +1,4 @@
-# ETSP - E-commerce Text Summarization Project
+# Amazon Comment Summarization Project
 
 A comprehensive framework for generating and training models on multi-level review summarization using the Amazon 2023 dataset.
 
